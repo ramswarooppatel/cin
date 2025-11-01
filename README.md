@@ -97,6 +97,14 @@ Anyone can be a part of CIN. There are multiple ways to contribute and grow with
 
 > CIN thrives when every voice contributes — whether through code, creativity, or community building.
 
+## How to Join
+
+The easiest way to join is to follow the steps in `how-to-join.md`: [how-to-join.md](how-to-join.md)
+
+If you have an idea, are an alumnus/alumna, or represent an industry organization and would like to help build CIN, please let us know — we welcome your experience and support. People can also join the core team: simply email us at [chennaiinnovatorsnetwork@gmail.com](mailto:chennaiinnovatorsnetwork@gmail.com) expressing interest and briefly describing how you'd like to help.
+
+We invite everyone to join and contribute — the community grows stronger with diverse voices and experience.
+
 ---
 
 ## Contribution Guidelines
